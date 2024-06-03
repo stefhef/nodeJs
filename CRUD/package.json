@@ -1,0 +1,15 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Simple CRUD server on JavaScript",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Stepan Melnickov",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
