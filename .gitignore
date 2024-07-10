@@ -1,2 +1,7 @@
 .vscode
-CRUD/node_modules
+.env
+
+node_modules
+dist
+
+database.db
